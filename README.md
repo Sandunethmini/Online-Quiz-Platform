@@ -1,4 +1,4 @@
-🎓 Online Quiz Platform
+# 🎓 Online Quiz Platform
 
 A modern web application for creating and taking quizzes with role-based authentication and real-time features.
 
